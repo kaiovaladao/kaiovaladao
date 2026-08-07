@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=%5BSYSTEM+INITIALIZING...%5D;%5BIDENTITY%3A+KAIO%5D;AI+%26+AUTOMATION+ENGINEER;CRM+%26+WHATSAPP+API+SPECIALIST;QA+%7C+PLAYWRIGHT+%7C+API+TESTING;%5BSYSTEM+ONLINE%5D" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=%5BKAIO+VALADÃO...%5D;%5BIDENTITY%3A+KAIO%5D;AI+%26+AUTOMATION+ENGINEER;CRM+%26+WHATSAPP+API+SPECIALIST;QA+%7C+PLAYWRIGHT+%7C+API+TESTING;%5BSYSTEM+ONLINE%5D" />
 
 <br/>
 
