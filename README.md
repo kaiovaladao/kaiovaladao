@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=%5BKAIO+VALADÃO...%5D;%5BIDENTITY%3A+KAIO%5D;AI+%26+AUTOMATION+ENGINEER;CRM+%26+WHATSAPP+API+SPECIALIST;QA+%7C+PLAYWRIGHT+%7C+API+TESTING;%5BSYSTEM+ONLINE%5D" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=%5BKAIO+VALADÃO%5D;%5BIDENTITY%3A+KAIO%5D;AI+%26+AUTOMATION+ENGINEER;CRM+%26+WHATSAPP+API+SPECIALIST;QA+%7C+PLAYWRIGHT+%7C+API+TESTING;%5BSYSTEM+ONLINE%5D" />
 
 <br/>
 
@@ -270,13 +270,13 @@ FINAL_TARGET="Solutions Architect"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050A0E&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiovaladao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050A0E&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050A0E&title_color=00F7FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiovaladao&layout=compact&theme=tokyonight&hide_border=true&bg_color=050A0E&title_color=00F7FF&text_color=FFFFFF"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=050A0E"/>
+<img src="https://streak-stats.demolab.com?user=kaiovaladao&theme=tokyonight&hide_border=true&background=050A0E"/>
 
 </div>
 
@@ -286,7 +286,7 @@ FINAL_TARGET="Solutions Architect"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=050A0E&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiovaladao&bg_color=050A0E&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -296,7 +296,7 @@ FINAL_TARGET="Solutions Architect"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kaiovaladao&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -306,7 +306,7 @@ FINAL_TARGET="Solutions Architect"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/kaiovaladao/kaiovaladao/output/snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -316,11 +316,11 @@ FINAL_TARGET="Solutions Architect"
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="https://linkedin.com/in/www.linkedin.com/in/kaio-valadão-9158071b3">
 <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU_USERNAME">
+<a href="https://github.com/kaiovaladao">
 <img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
